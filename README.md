@@ -4,7 +4,11 @@ C++ implementation of the Generalized Moving Peaks Benchmark (GMPB)
 
 Includes implementation of the mQSO algorithm (T. Blackwell and J. Branke, “Multiswarms, exclusion, and anticonvergence in dynamic environments,” IEEE Transactions on Evolutionary Computation, vol. 10, no. 4, pp. 459–472, 2006.)
 
-This benchmark is a part of the CEC 2022 and 2024 competitions: https://danialyazdani.com/CEC-2022.php https://competition-hub.github.io/GMPB-Competition/
+This benchmark is a part of the CEC 2022 and 2024 competitions: 
+
+https://danialyazdani.com/CEC-2022.php 
+
+https://competition-hub.github.io/GMPB-Competition/
 
 Reference:
 
